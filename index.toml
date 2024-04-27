@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/jekyll-gh-pages.yml"
-hash = "3e9c30b39b55ab79fec1e7c9fa92b1fb931865c263534450fe9880e3384070be"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 
