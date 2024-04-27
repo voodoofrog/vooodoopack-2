@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/compat-numismatics.zip"
-hash = "11b7e5e6a7f522618393fc9d5be7f46ee881ca26b72bb1ebab0a8df7de918972"
+hash = "30698926c025974bd9d98296f02b04ab06b7dd369de70d4382cc4d98b5e81afe"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
