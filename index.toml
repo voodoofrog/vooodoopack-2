@@ -261,11 +261,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "3c00ddc851c4bae2ab75616f8812de91a5423aa5dd9ec73e31eb88c19b8c918c"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
 metafile = true
@@ -588,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
-metafile = true
-
-[[files]]
-file = "mods/seasons-delight-compatibility.pw.toml"
-hash = "7c2f9a538ee832807c7c61b01d8f219e5bc0426c857ff568328a55a41d010aca"
 metafile = true
 
 [[files]]
