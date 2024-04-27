@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/voodoo-cards.pw.toml"
-hash = "9e85561eb94ea575ef9c3429b67f7c24f4c5a7390f74742846affeb1b8be4280"
+hash = "788e46fc6677c754dc0af9040643ae430844637f693f07efb01e7ef8fd723a94"
 metafile = true
 
 [[files]]
