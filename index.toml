@@ -9,6 +9,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/yosbr/config/betterdays-common.toml"
+hash = "57b2bde0a92d9dc60c1291e702eef09a2814ef3389e7f33575949369823381a5"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
