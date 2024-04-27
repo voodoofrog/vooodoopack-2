@@ -855,6 +855,10 @@ hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "f0bc40a22c3576ad5834946becb56c0acb74e5719b7f794fcf7dcefd2622aaa8"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
