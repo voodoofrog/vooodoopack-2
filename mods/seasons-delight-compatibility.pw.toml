@@ -1,0 +1,8 @@
+name = "seasons-delight-compatibility"
+filename = "seasons-delight-compatibility-1.1.0-2.0.17.jar"
+side = "both"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/seasons-delight-compatibility-1.1.0-2.0.17.jar"
+hash-format = "sha256"
+hash = "c68c34684360a592f6be5f18d15702d068991ee535d41221a097abdf83487302"

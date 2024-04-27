@@ -1,0 +1,7 @@
+name = "voodoo-cards"
+filename = "voodoo-cards-1.0-SNAPSHOT.jar"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/voodoo-cards-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "0a33de9713e40e4022cf85de8711bb0524b855a0e78ae8434f242228a081daca"

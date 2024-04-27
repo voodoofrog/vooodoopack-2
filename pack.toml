@@ -1,0 +1,13 @@
+name = "VoodooPack 2"
+author = "VoodooFrog"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "915f6682939168ef2207e6701e9e15f2a842fc5645e7dd6b3217e389d09c6b24"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"
