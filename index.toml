@@ -93,6 +93,22 @@ file = "config/yosbr/options.txt"
 hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
+file = "config/yosbr/paxi/datapacks/compat-numismatics/data/bountiful/bounty_pools/numismatics/_all_objs.json"
+hash = "088e90e9c5ae33281fdbcc3452e4d8c5d7d3491c5ffa072679ca194f9b64da95"
+
+[[files]]
+file = "config/yosbr/paxi/datapacks/compat-numismatics/data/bountiful/bounty_pools/numismatics/_all_rews.json"
+hash = "868ae280baad980baadce49436ec05afe00aabd151fffa97cec5b7ca4ab6fc0b"
+
+[[files]]
+file = "config/yosbr/paxi/datapacks/compat-numismatics/pack.mcmeta"
+hash = "b6ffc23618ea3f1504f3862a0c3a66e032e39eaa410746d5e204409eebc115ce"
+
+[[files]]
+file = "config/yosbr/paxi/datapacks/compat-numismatics/pack.png"
+hash = "169cb672405067071a5c53140c625816e025004fad203b074a85cb75037e1cb1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
 metafile = true
@@ -833,4 +849,24 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "f1f74f07924a5b0eb57e7c662c2e3f8c56d50eaee0dc2cb4cb40985af8eb9cf4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "9ae90521a736cc952b0cdcdc14c63b6c27712912d1aff428db28a006c94506c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
