@@ -326,6 +326,11 @@ hash = "59f568baad73a87e26a3eac172e72b531be55c00dad55de51dd7ddb27cd49a16"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "d9ad7cd094ae8d5f8e7f2a3ad309b4670a8664af89617e223344875cc55ab433"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2a36bacc54de817c3e990f60666037d2872e3cf90b4eb7b74645c8716d172186"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "71b587e0de4a30a8be05817a1db39ad8bb0a5dcf830f16a6f96189c6ebcb8ea4"
 metafile = true
 
 [[files]]
@@ -530,6 +540,11 @@ hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bloomingnature.pw.toml"
 hash = "d25cbbe3942fcb6471d553e999c0e57ac0baf48b002baaff91cee45036de5623"
 metafile = true
@@ -672,6 +687,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
