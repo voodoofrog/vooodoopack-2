@@ -1,0 +1,7 @@
+name = "multiplayer-server-pause"
+filename = "MultiplayerServerPause-1.20.1-Fabric-1.1.0.jar"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/MultiplayerServerPause-1.20.1-Fabric-1.1.0.jar"
+hash-format = "sha256"
+hash = "06bea04860be9347ada7cd574be26c45ad637889ab493dfe61a16b73344354bf"

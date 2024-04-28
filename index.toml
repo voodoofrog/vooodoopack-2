@@ -89,6 +89,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
+file = "config/yosbr/config/serverpause.json"
+hash = "58b4080a03eb8b1881789734b6871ace594d684a059bbd371e22a5bc8d7c0cbe"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
@@ -593,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "2024ff51effdb5fcc5ba6aa4f6efc066e29ac45f9cb8982ca24c52547fe7f13d"
 metafile = true
 
 [[files]]

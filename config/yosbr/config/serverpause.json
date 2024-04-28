@@ -1,0 +1,5 @@
+{
+  "pauseWhenAllPlayersPaused": false,
+  "pauseWhenNoPlayers": true,
+  "sendChatMessageWhenPauseStateChanges": true
+}
