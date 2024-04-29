@@ -709,6 +709,11 @@ hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
