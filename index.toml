@@ -388,11 +388,6 @@ file = "mods/effective-2.2.1.jar"
 hash = "b9a1f3a3925bd5f14fb5fdadd8c34624f17cd0f0bf4aac5842ebf40cd78f28ea"
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "5762034e469126ca673ee2f67dcc6a2969b73f0623ea44c84af0b7195c93e13f"
 metafile = true
@@ -735,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
 metafile = true
 
 [[files]]
