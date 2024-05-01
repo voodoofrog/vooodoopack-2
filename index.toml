@@ -57,6 +57,30 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 
 [[files]]
+file = "config/yosbr/config/fancymenu/assets/voodoopack.png"
+hash = "22227da39043474d7c581a2a969b2099047e1293b6a347cfdc95a843f4a2c69e"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/assets/vp-logo.png"
+hash = "dbaa53213b31f4a17f9e5e378721c285e4d4c03aa66b5c187a69fd0b32eff3ff"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/assets/vp_background.jpg"
+hash = "79eeed49fc8cb5d22e2e4f8d302485a1be8c88f124534dee005ce6a8f73089bf"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/vp2_loading_overlay_layout.txt"
+hash = "1a7986ab0f037ebb923b34431c881b7121cf603f4fd4bb3b51bfab9bbcd311f9"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/vp2_title_screen_layout.txt"
+hash = "5379bf444fb9311489412c62b033fade19c831fdcf2170577ee9502de6e38587"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "ffceadf833afeee262e79ec0b4b0888960e3a480a92f722124bafe1de2fc73e5"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
@@ -584,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
+hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
