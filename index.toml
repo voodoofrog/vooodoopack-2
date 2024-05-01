@@ -792,11 +792,6 @@ hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
-metafile = true
-
-[[files]]
 file = "mods/seasons-delight-compatibility-1.1.0-2.0.17.jar"
 hash = "c68c34684360a592f6be5f18d15702d068991ee535d41221a097abdf83487302"
 
