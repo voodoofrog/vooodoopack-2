@@ -93,6 +93,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
+file = "config/yosbr/config/lootr.json"
+hash = "39f67ac7145ce744e7c22030a3c397236537b23655f963574576101c10562366"
+
+[[files]]
 file = "config/yosbr/config/midnightcontrols.json"
 hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 
@@ -629,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "85167839c93b4edf3cf0e24d31f07c3e3854020d3608fc46efd7e4987ea2aa66"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
