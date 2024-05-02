@@ -531,6 +531,11 @@ hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
+file = "mods/grass-overhaul.pw.toml"
+hash = "e78b02e9759ff949a2aff4a95363a9cf41dd91d0cb936809e62574d23d1a9070"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
@@ -698,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "2024ff51effdb5fcc5ba6aa4f6efc066e29ac45f9cb8982ca24c52547fe7f13d"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
