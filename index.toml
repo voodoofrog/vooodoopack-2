@@ -93,6 +93,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
+file = "config/yosbr/config/locksmith.json"
+hash = "aa96d76fe8bf8ca6b9ffbe44da9debe111885a6a3c82703740f77d72bc1e5a87"
+
+[[files]]
 file = "config/yosbr/config/lootr.json"
 hash = "39f67ac7145ce744e7c22030a3c397236537b23655f963574576101c10562366"
 
@@ -638,6 +642,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "85167839c93b4edf3cf0e24d31f07c3e3854020d3608fc46efd7e4987ea2aa66"
+metafile = true
+
+[[files]]
+file = "mods/locksmith.pw.toml"
+hash = "810ebab1d040625d19b4209f08106a4b00f5bd5330ee2f7ff9335fb6b67b08ae"
 metafile = true
 
 [[files]]

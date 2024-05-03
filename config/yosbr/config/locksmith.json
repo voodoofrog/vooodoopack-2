@@ -1,0 +1,7 @@
+{
+  "allowLocksToBeBroken": false,
+  "lockBreakingMultiplier": 3.0,
+  "enableLockpicking": false,
+  "useKeyringMenu": false,
+  "allowNpcsToOpenDoors": false
+}
