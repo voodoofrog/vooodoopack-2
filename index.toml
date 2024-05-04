@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/soil-stairs.pw.toml"
-hash = "0fc6a2ed389a70c53d0d91977f931c64fbdaa688abdc7918fe69477961df8b82"
+hash = "9db558e473023e29c4401a9971e605eacd02edc33c82bfe79728704a7a5f157d"
 metafile = true
 
 [[files]]
