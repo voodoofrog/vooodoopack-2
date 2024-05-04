@@ -535,11 +535,6 @@ hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
-file = "mods/grass-overhaul.pw.toml"
-hash = "e78b02e9759ff949a2aff4a95363a9cf41dd91d0cb936809e62574d23d1a9070"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
