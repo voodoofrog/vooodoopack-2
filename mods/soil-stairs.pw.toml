@@ -1,7 +1,7 @@
 name = "soil-stairs"
-filename = "soil-stairs-2.0.0.jar"
+filename = "soil-stairs-2.0.1.jar"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/soil-stairs-2.0.0.jar"
+url = "http://artifacts.forgottendream.co.uk/modpacks/soil-stairs-2.0.1.jar"
 hash-format = "sha256"
-hash = "9bbe757d29bcd58d2717d16f6261781d420b5a10d9ba5edd7f912e90601277c4"
+hash = "0dd25d9b7e75da9b811964ac8a49eb10071d1f1dddc2c9622d7f27633a100972"

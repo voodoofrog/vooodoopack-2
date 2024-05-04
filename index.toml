@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/soil-stairs.pw.toml"
-hash = "98a15670fde1313c5eb0b3ac3f91a79c5e3beeaaf32d3f7bd955f6b239deab4f"
+hash = "0fc6a2ed389a70c53d0d91977f931c64fbdaa688abdc7918fe69477961df8b82"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/voodoo-cards.pw.toml"
-hash = "7d49a1dc81eb13cea1118d5e2c04c2347604f92ac9830771e8f1d99211bdcd39"
+hash = "8e9ae936d7e2a77059ec844ea14853cfca613d70f63f962579d7b5dd991c43d6"
 metafile = true
 
 [[files]]

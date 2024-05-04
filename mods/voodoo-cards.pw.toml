@@ -1,7 +1,7 @@
 name = "voodoo-cards"
-filename = "voodoo-cards-1.0.4-SNAPSHOT.jar"
+filename = "voodoo-cards-1.0.5-SNAPSHOT.jar"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/voodoo-cards-1.0.4-SNAPSHOT.jar"
+url = "http://artifacts.forgottendream.co.uk/modpacks/voodoo-cards-1.0.5-SNAPSHOT.jar"
 hash-format = "sha256"
-hash = "1e97bd434ec345e5b5c54770e780ce96b33f569347c9809ef8f3d511a3eb68af"
+hash = "e1d82b54d90434fd43bc59b9eeb98f3fca91028792153f37b02241c11f8062ba"
