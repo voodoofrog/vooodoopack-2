@@ -854,6 +854,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/soil-stairs.pw.toml"
+hash = "98a15670fde1313c5eb0b3ac3f91a79c5e3beeaaf32d3f7bd955f6b239deab4f"
+metafile = true
+
+[[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
