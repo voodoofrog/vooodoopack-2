@@ -1,0 +1,8 @@
+name = "iris-flywheel-compat"
+filename = "iris-flywheel-compat-1.20.1-0.2.4.jar"
+side = "client"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/iris-flywheel-compat-1.20.1-0.2.4.jar"
+hash-format = "sha256"
+hash = "75f21fe7059e7bf5b27451d92716b513e695949f7269968c3e3b01d89290c71b"
