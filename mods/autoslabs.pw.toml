@@ -1,13 +1,7 @@
-name = "AutoSlabs"
-filename = "autoslabs-1.1.3.jar"
-side = "both"
+name = "autoslabs"
+filename = "autoslabs-1.1.4.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/d6GPje96/versions/1DlF1Y4p/autoslabs-1.1.3.jar"
-hash-format = "sha1"
-hash = "60dcd96b553d1f30f1ca4fd7c74558d56446032a"
-
-[update]
-[update.modrinth]
-mod-id = "d6GPje96"
-version = "1DlF1Y4p"
+url = "http://artifacts.forgottendream.co.uk/modpacks/autoslabs-1.1.4.jar"
+hash-format = "sha256"
+hash = "92c4eb5fb5c82b2dc3f74dad074ef2423df13a229264948f07aafed121a963ff"

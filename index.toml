@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoslabs.pw.toml"
-hash = "8f9492f81669ba65c30fbe182b56566c065dc00e96afdd535a37f4581be36a81"
+hash = "a86dfaf05fa986676cdc9ed0b2f6f9ca6229f97e40b15830a03dc0d683a0c3c6"
 metafile = true
 
 [[files]]
