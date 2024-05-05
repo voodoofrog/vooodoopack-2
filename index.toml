@@ -421,8 +421,9 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/effective-2.2.1.jar"
-hash = "b9a1f3a3925bd5f14fb5fdadd8c34624f17cd0f0bf4aac5842ebf40cd78f28ea"
+file = "mods/effective.pw.toml"
+hash = "2868c3104dd79f19a17b720249ee6e00f05507be4b62e5426442fd8c57654e6a"
+metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"

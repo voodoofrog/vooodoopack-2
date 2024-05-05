@@ -1,0 +1,8 @@
+name = "effective"
+filename = "effective-2.2.1.jar"
+side = "client"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/effective-2.2.1.jar"
+hash-format = "sha256"
+hash = "b9a1f3a3925bd5f14fb5fdadd8c34624f17cd0f0bf4aac5842ebf40cd78f28ea"
