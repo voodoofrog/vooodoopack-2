@@ -1020,6 +1020,11 @@ hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "c300f4b15449b2ee77d762277fb5b523f69539c28ca2956ea0b8e1c2eedd76b3"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "f0bc40a22c3576ad5834946becb56c0acb74e5719b7f794fcf7dcefd2622aaa8"
 
