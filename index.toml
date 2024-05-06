@@ -826,6 +826,11 @@ hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "7c0451d09ddb9ba7c3e91b0b3f07561b8a21be5e30819f4504181ce599b32a7c"
+metafile = true
+
+[[files]]
 file = "mods/seasons-delight-compatibility-1.1.0-2.0.17.jar"
 hash = "c68c34684360a592f6be5f18d15702d068991ee535d41221a097abdf83487302"
 
