@@ -771,6 +771,11 @@ hash = "c819b927710679bf50c6d5945da3585234a43eef1f2cbfa939aaa2cbffe42830"
 metafile = true
 
 [[files]]
+file = "mods/pickable-villagers.pw.toml"
+hash = "220e1101932066ff3fd0cf52c79f1edbb53045f4f486ac7ecc86738a7a70f9ca"
+metafile = true
+
+[[files]]
 file = "mods/picohud.pw.toml"
 hash = "e13b2c9e64543a6832bc00f3d16e7fcd6a21db7a017c229aae13fafddde34028"
 metafile = true
