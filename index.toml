@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/locksmith.pw.toml"
-hash = "810ebab1d040625d19b4209f08106a4b00f5bd5330ee2f7ff9335fb6b67b08ae"
+hash = "fd1cdfb2df7825b4a316bc524a38c0a367704f98dea2dd5ab9c8c64d8d55e26e"
 metafile = true
 
 [[files]]

@@ -1,8 +1,7 @@
 name = "locksmith"
-filename = "locksmith-1.0.0-SNAPSHOT.jar"
-side = "both"
+filename = "locksmith-1.0.1-SNAPSHOT.jar"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/locksmith-1.0.0-SNAPSHOT.jar"
+url = "http://artifacts.forgottendream.co.uk/modpacks/locksmith-1.0.1-SNAPSHOT.jar"
 hash-format = "sha256"
-hash = "3c3b2a527ec05bff99080fba7fcad5f536c5991139a768a30214b5df6c504af4"
+hash = "5b9c88b57cf30d423e387d38674e2bfb9f8f1526100446eccba307c18dedc786"
