@@ -811,6 +811,11 @@ hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
+file = "mods/pyrotastic.pw.toml"
+hash = "8a08fd75234f7f8239e95b5ee1711ba724daed9ca6aee2378aca939da509783e"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
