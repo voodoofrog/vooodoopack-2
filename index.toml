@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
+hash = "ef2c6836d6afab05bd4b25f688c31126882492fd9422928aff409df84f9721bc"
 metafile = true
 
 [[files]]
