@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-stars.pw.toml"
-hash = "7d849aab15540897f827d63e57b097e3eb966179d6396af3bd507fb186e69ed5"
+hash = "c8f5e7af7686741484d2de1b19f747bb38c7c823c93255a23940ded7432da6ee"
 metafile = true
 
 [[files]]
