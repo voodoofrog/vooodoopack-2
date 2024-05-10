@@ -11,3 +11,8 @@ hash = "dfa603a2db09d6e303dd2991f016550ae156e3d1"
 [update.modrinth]
 mod-id = "G1epq3jN"
 version = "gfcbMV82"
+
+[option]
+optional = true
+default = true
+description = "This mod enlarges the advancements UI using most of your screen and it displays which requirements you've met and which you haven't."

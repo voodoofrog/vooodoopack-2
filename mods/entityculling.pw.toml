@@ -11,3 +11,8 @@ hash = "8e4be2bb9703deddb3d3d212c812cdc1f9de072b"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "BDwHAdWc"
+
+[option]
+optional = true
+default = true
+description = "Usies async path-tracing to hide entities that are not visible. Should only be disabled if there are issues."

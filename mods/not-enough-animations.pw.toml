@@ -11,3 +11,8 @@ hash = "653d367f7a94d05b6d124a074c0378dc7bc286f9"
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "ibajTV3T"
+
+[option]
+optional = true
+default = true
+description = "Brings first-person animations to the third-person models."

@@ -11,3 +11,8 @@ hash = "8a48f9abfa26e4abc06490c6e818f5cf6af1c280"
 [update.modrinth]
 mod-id = "ncKjyGm3"
 version = "j53ChsnW"
+
+[option]
+optional = true
+default = true
+description = "Removes the fade out animations from screen transitions."

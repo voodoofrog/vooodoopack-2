@@ -11,3 +11,8 @@ hash = "c9a1458c46ef4b61498d68722133c7fb7a818cde"
 [update.modrinth]
 mod-id = "5ZwdcRci"
 version = "8eoEPo8E"
+
+[option]
+optional = true
+default = true
+description = "Speeds up immediate mode rendering in Minecraft. Should only be disabled if there are issues."

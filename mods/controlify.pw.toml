@@ -11,3 +11,8 @@ hash = "b7f653dc9d58bb318ff8e5eaa2268613f360357b"
 [update.modrinth]
 mod-id = "DOUdJVEm"
 version = "naETXOxy"
+
+[option]
+optional = true
+default = true
+description = "Adds controller support."

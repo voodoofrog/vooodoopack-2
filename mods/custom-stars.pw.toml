@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4575166
 project-id = 411848
+
+[option]
+optional = true
+default = true
+description = "Allows you to configure the size, number, and overall color of stars and some End Sky options. Tends not to work with shader packs."

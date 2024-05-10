@@ -11,3 +11,8 @@ hash = "1f660cc24697a894411abfa26052952470a540de"
 [update.modrinth]
 mod-id = "9eGKb6K1"
 version = "es78rsMC"
+
+[option]
+optional = true
+default = true
+description = "Adds voicechat to Minecraft."

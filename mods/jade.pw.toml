@@ -11,3 +11,8 @@ hash = "6f5db6204b9d35ff3969415a3df65a84d9b81826"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "yksHdZ4j"
+
+[option]
+optional = true
+default = true
+description = "Shows information about what you are looking at. If you disable this you MUST also disable Jade Addons."

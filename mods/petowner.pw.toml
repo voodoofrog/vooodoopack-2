@@ -11,3 +11,8 @@ hash = "1c249c5cb8416295370747c6a809cee25e50a981"
 [update.modrinth]
 mod-id = "IxUlAAFe"
 version = "LxdwPVNb"
+
+[option]
+optional = true
+default = true
+description = "Allows you to see who owns an animal simply by looking at it."

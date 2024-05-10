@@ -11,3 +11,8 @@ hash = "0ec2a4722337bdcb668b6e37c43ec35bc2e0c617"
 [update.modrinth]
 mod-id = "T8MMXTpr"
 version = "7GB1hLrr"
+
+[option]
+optional = true
+default = true
+description = "Adds sounds for drip particles landing."

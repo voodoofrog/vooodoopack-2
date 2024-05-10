@@ -11,3 +11,8 @@ hash = "6c42358ecd765bd9372d3e69a1363ca4eeeb55a3"
 [update.modrinth]
 mod-id = "g96Z4WVZ"
 version = "eT6Jsaq5"
+
+[option]
+optional = true
+default = true
+description = "A collection of optimizations. Should only be disabled if it might be causing issues."

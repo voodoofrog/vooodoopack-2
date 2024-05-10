@@ -11,3 +11,8 @@ hash = "6962a0d6821ec7df5203021ac5ccfd8f22de940b"
 [update.modrinth]
 mod-id = "nfn13YXA"
 version = "tewJX3lm"
+
+[option]
+optional = true
+default = true
+description = "View Items and Recipes."

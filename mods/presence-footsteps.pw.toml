@@ -11,3 +11,8 @@ hash = "2ec15bb87cb4d31e030664bad4b1589c9580786a"
 [update.modrinth]
 mod-id = "rcTfTZr3"
 version = "HwGHderf"
+
+[option]
+optional = true
+default = true
+description = "Adds footstep sounds based on the block you are walking on."

@@ -11,3 +11,8 @@ hash = "d5a8909b0b864eb1a7a2d62368932d264eb60317"
 [update.modrinth]
 mod-id = "rUgZvGzi"
 version = "AqXSvu6M"
+
+[option]
+optional = true
+default = true
+description = "Adds sprite animations for edible and drinkable items."

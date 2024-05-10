@@ -11,3 +11,8 @@ hash = "5444e301346383f6133189e66069e970d4a126fc"
 [update.modrinth]
 mod-id = "89Wsn8GD"
 version = "z2zOEvPP"
+
+[option]
+optional = true
+default = true
+description = "Lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod."

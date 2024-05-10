@@ -11,3 +11,8 @@ hash = "8d91722f1383a7be940f35fbd1e558701f3c3aa5"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "eV9YeX53"
+
+[option]
+optional = true
+default = true
+description = "Adds real-time mapping in game or in a web browser as you explore. If you disable this you MUST also disable Journeymap Integration."

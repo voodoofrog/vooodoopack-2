@@ -11,3 +11,8 @@ hash = "68f080925502a49027e231c63d3b94128ed6499b"
 [update.modrinth]
 mod-id = "x1hIzbuY"
 version = "tNgyOUMr"
+
+[option]
+optional = true
+default = true
+description = "Lets you return to the Title Screen early while your world is still saving in the background."

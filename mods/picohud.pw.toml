@@ -11,3 +11,8 @@ hash = "1ca6888c951392d1af9509532461c88a351f3305"
 [update.modrinth]
 mod-id = "483PZAuC"
 version = "LUw0tcnN"
+
+[option]
+optional = true
+default = true
+description = "Adds hud information for coordinates, day, time, facing direction, and biome - with toggle/hold key modes."

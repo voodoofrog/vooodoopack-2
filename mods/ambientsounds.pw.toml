@@ -11,3 +11,8 @@ hash = "a8239f723d9a27b913f040de1ce38e92b23108cf"
 [update.modrinth]
 mod-id = "fM515JnW"
 version = "rOt61sOt"
+
+[option]
+optional = true
+default = true
+description = "Adds ambience sounds to the minecraft world."

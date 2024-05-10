@@ -11,3 +11,8 @@ hash = "0b1d3b2c084a8e8594229d201360262f9e17d3b6"
 [update.modrinth]
 mod-id = "F7wXag4i"
 version = "iYujfjuN"
+
+[option]
+optional = true
+default = true
+description = "Sort and transfer items with the click of a button."
