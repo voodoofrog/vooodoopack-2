@@ -795,6 +795,11 @@ hash = "c9e4c738226f6264f4bf775a72ba642610c84ee0ed1e31f82abbff54ae9f68ed"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
 metafile = true
