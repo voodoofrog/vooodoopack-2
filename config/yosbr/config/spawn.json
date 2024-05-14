@@ -1,0 +1,20 @@
+{
+    "anglerFishSpawnRate": 5,
+    "anglerFishMinSpawn": 1,
+    "anglerFishMaxSpawn": 1,
+    "tunaSpawnRate": 5,
+    "tunaMinSpawn": 1,
+    "tunaMaxSpawn": 3,
+    "seahorseSpawnRate": 20,
+    "seahorseMinSpawn": 1,
+    "seahorseMaxSpawn": 3,
+    "snailSpawnRate": 12,
+    "snailMinSpawn": 1,
+    "snailMaxSpawn": 3,
+    "hamsterSpawnRate": 12,
+    "hamsterMinSpawn": 1,
+    "hamsterMaxSpawn": 1,
+    "hamsterFrequentSpawnRate": 25,
+    "hamsterFrequentMinSpawn": 1,
+    "hamsterFrequentMaxSpawn": 4
+}

@@ -109,10 +109,6 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
-file = "config/yosbr/config/mobfilter.yaml"
-hash = "47f7fedb9c0897db8cd20af3cb6b8eb62b75df9f37f81712e6ba3cba7b4f5d79"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
@@ -135,6 +131,10 @@ hash = "58b4080a03eb8b1881789734b6871ace594d684a059bbd371e22a5bc8d7c0cbe"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/yosbr/config/spawn.json"
+hash = "7400deffdb226c82f88c1767f313c982d372fb5a1b1560a789538778f10a5515"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-mod.pw.toml"
-hash = "927c71c5e1dd31b493cae432ed0bdfb074f52d2e9dbc6632a95c890e5ec04aa5"
+hash = "fbdbabbcfbd94334695f0cde3f23929edcfbd88d03972287d38366ceab6a8a45"
 metafile = true
 
 [[files]]
