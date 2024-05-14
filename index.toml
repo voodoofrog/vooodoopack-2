@@ -109,6 +109,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
+file = "config/yosbr/config/mobfilter.yaml"
+hash = "47f7fedb9c0897db8cd20af3cb6b8eb62b75df9f37f81712e6ba3cba7b4f5d79"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
@@ -712,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "5b43a6af059382a59bb898f81e6affff4c0e0358f5ec48f02e4bebca8d8a7281"
 metafile = true
 
 [[files]]
