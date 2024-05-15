@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/Seasonal_Vinery.zip"
+hash = "7cd11a5c286a98a9f91b6f7343d5d232d03c4febdf70d1fb203ae4201982caa6"
+
+[[files]]
 file = "config/paxi/datapacks/compat-numismatics.zip"
 hash = "b9e526b893490e1b4527c51147ce7a26b7b74a039e889938ab88bceceb80658e"
 
