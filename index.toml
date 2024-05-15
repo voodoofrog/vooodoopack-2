@@ -53,6 +53,10 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
 
 [[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "6f16e613d48936a393213408879a7d21c2893d22644cbc19ff283b4e32c86ba8"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 
