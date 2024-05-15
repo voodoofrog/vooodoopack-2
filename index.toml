@@ -992,6 +992,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/vf-backports.pw.toml"
+hash = "b6f74078658b5c3c17c52d02c8e0d9c53a42d76e1fd12dfec4c1a158a4bd4fdf"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
