@@ -1,8 +1,0 @@
-name = "iris-flywheel-compat"
-filename = "iris-flywheel-compat-1.20.1-0.2.5.jar"
-side = "client"
-
-[download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/iris-flywheel-compat-1.20.1-0.2.5.jar"
-hash-format = "sha256"
-hash = "9223246fe7a596cb7a6d20b8689114fc1882b5bbb7b35736b3b04e39005dd49b"

@@ -1,13 +1,13 @@
 name = "[Let's Do] API"
-filename = "letsdo-API-fabric-1.2.9-fabric.jar"
+filename = "letsdo-API-fabric-1.2.12-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/u8VE5pSI/letsdo-API-fabric-1.2.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/uBWMN9Mp/letsdo-API-fabric-1.2.12-fabric.jar"
 hash-format = "sha1"
-hash = "c4f876125b63d67983e356b18511c6e41da6581b"
+hash = "1032ff84328a3b6afd0f63def0b2c25f0dd164a9"
 
 [update]
 [update.modrinth]
 mod-id = "4XJZeZbM"
-version = "u8VE5pSI"
+version = "uBWMN9Mp"
