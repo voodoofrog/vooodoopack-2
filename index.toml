@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "6f16e613d48936a393213408879a7d21c2893d22644cbc19ff283b4e32c86ba8"
+
+[[files]]
 file = "config/paxi/datapacks/compat-numismatics.zip"
 hash = "b9e526b893490e1b4527c51147ce7a26b7b74a039e889938ab88bceceb80658e"
 
