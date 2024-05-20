@@ -1,8 +1,8 @@
 name = "Complimentary Shaders - VoodooPack"
-filename = "Complimentary-VP-1.0.zip"
+filename = "Complimentary-VP-1.1.zip"
 side = "client"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/Complimentary-VP-1.0.zip"
+url = "http://artifacts.forgottendream.co.uk/modpacks/Complimentary-VP-1.1.zip"
 hash-format = "sha256"
-hash = "4afb3a7cd68057c19d6bd83164ef0e59f33d28b1b3297dea870acb6a3fd16a8d"
+hash = "8d1e198fd8f88839252fbd42188dbd6a63ceb91ab781e7a60e37fe259355a79b"
