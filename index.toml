@@ -37,6 +37,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/yosbr/config/chickensshed-common.toml"
+hash = "148500f98966c3c05a72cc429243279af933e986edb7bc88a2d795bde248b1aa"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -293,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
+metafile = true
+
+[[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "e4183977b90ac7b93460c167002c83dfea9fff35a4fc673cee7054d50a0926dc"
 metafile = true
 
 [[files]]
