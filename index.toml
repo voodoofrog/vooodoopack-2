@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
-hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+hash = "32b9964e971ee4f85421ad3a1cb560d5fa1856770a845356256b5cbd8661f7a2"
 metafile = true
 
 [[files]]

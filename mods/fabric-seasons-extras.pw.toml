@@ -1,13 +1,8 @@
 name = "Fabric Seasons: Extras"
-filename = "fabric-seasons-extras-1.2-BETA+1.20.jar"
+filename = "fabric-seasons-extras-1.2.1-BETA+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/64FYdx5z/versions/H6OLpHJp/fabric-seasons-extras-1.2-BETA%2B1.20.jar"
-hash-format = "sha1"
-hash = "fcbb318906832b9d919dd64b023118889290fbd9"
-
-[update]
-[update.modrinth]
-mod-id = "64FYdx5z"
-version = "H6OLpHJp"
+url = "http://artifacts.forgottendream.co.uk/modpacks/fabric-seasons-extras-1.2.1-BETA+1.20.jar"
+hash-format = "sha256"
+hash = "6c317bff7d5b5c1bc08badd80c39f849fac5e340424ae430bd55b548fe48a507"
