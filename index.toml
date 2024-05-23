@@ -9,6 +9,10 @@ file = "config/paxi/datapacks/compat-numismatics.zip"
 hash = "b9e526b893490e1b4527c51147ce7a26b7b74a039e889938ab88bceceb80658e"
 
 [[files]]
+file = "config/paxi/datapacks/voodoo-tweaks.zip"
+hash = "2ff7dab42a2a24ce260d493a837acde906df8a139c274c2a2298fd7917e55959"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 
