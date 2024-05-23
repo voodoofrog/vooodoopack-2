@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d6a4f66c8d3c35ece84ea61c879d5098602d9b844322ca8eda4d66a762e4f8b0"
+hash = "d9cde7ab006d67906422390fd499e84b2269ddb52866a53f2e2c6b295d3ee116"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
+hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1648c473c52a0f563dc193673596417de097ad8ee27ebaf15098cae67e67134f"
+hash = "4d8957177d3407ba18861ba674eb47f251f7b5746865c49ad1bd619db18891e3"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "18a32f0e0cc4fa4adf85c5a4579414b661a61b255fa96411f97025ce192b2cc0"
+hash = "68fa2c90c80e9ae9fbd98b2e62b43422883f0937165324bf11965c400047ca86"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ hash = "c68c34684360a592f6be5f18d15702d068991ee535d41221a097abdf83487302"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b862dfd3c28afaa491a284e7c062b6d3e9c51f2791986635dce6809d0f541d62"
+hash = "3f2975d0e388d3aa48b0baf0028a2a54e9fd9f39520bd68499b671d33eca69d6"
 metafile = true
 
 [[files]]
@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "4ab8d6814e14c4006d85289a2b9c0335e1986d35d07e02c89a129bf948daee76"
+hash = "c7ce0887b97dcd12d51a2616476f4b9612bcaca62d4c090bca8620db5f0ef0fe"
 metafile = true
 
 [[files]]
