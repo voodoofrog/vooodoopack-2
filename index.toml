@@ -551,6 +551,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "e991e67f99af2c64026113f7abdcec84a744abaa0ea8611dda093b093b01b487"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-graves.pw.toml"
 hash = "edea62e792a610e53e16141047acaa6da9dc5bb5460e02fb5d7fa3d8afa5e4b0"
 metafile = true
