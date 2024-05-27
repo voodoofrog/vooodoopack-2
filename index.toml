@@ -978,6 +978,16 @@ hash = "28de8ad7587c7f3a35d6cbf08eea51d3788c11a87960c4240cd25e6570622b00"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "447e5befa166230674f2fa31097b959453affb2057d146c3780f9eb1b02cc46b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "15d6e9be44f90d3f93e298bbd6359a39a9e47a6194c0e02a871783bf27c41336"
+metafile = true
+
+[[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "fbdbabbcfbd94334695f0cde3f23929edcfbd88d03972287d38366ceab6a8a45"
 metafile = true
