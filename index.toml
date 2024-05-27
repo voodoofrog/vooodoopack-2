@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernkeybinding.pw.toml"
-hash = "1f92d47cf71d830265486ab8246d82b7718f0d434bedd5716867bffed9fd5d30"
+hash = "0af45a21d373537de0bace4256827c65b78aacaf9573bacf531e05f70a492252"
 metafile = true
 
 [[files]]
