@@ -914,6 +914,11 @@ hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "4e94000ecc7bd209eec3cb8537062acc68b10319501c8543dcc7db86fea9c6c5"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
