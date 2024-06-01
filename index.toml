@@ -170,7 +170,7 @@ hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "10a69cb3dcd902eb289cd575210d1fb9b9f36ec44b7712ce2fac2eabfd3f50ed"
+hash = "61011422e0dacb34e22d7bff79037be8841cc25b0d5fc316b2af32635d648c03"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4ffc62cb8cf4cecfd40a03d56bd1e9fbdd1f9a1587d3b29d57775aaa2286c104"
+hash = "13a162536bf22b879f3bd9711a18c2aa16ba1fa17f28c47ff91ce409f487a1f8"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "43e7739f17922c11bdd39009d954b937fffad61f0261a2b9c4f960395c682ae7"
+hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d664c4631f551ed5b299933ca349c4834fe5c936284e5fae00f4b591fa339355"
+hash = "590a87c36f16a27ccaf61c08c79132bf39e07adac12b58e025786b0c86d05b18"
 metafile = true
 
 [[files]]
@@ -500,17 +500,22 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "098c9c1a245ca39825d7185483414d639910699e891933f1be931d72bf175644"
+hash = "67c983f24579022f3af1fc23527ae4b86c6f798f0c25f4ea8e620ba2bf0b35e3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "8d2e8b26892d341bdcf898521cca304b0eced004625eeb788cdbd8fa180a8c47"
 metafile = true
 
 [[files]]
@@ -595,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+hash = "2e401a91e431cb169896a5012f798046712d3c19807ad597dea5ec33b28884db"
 metafile = true
 
 [[files]]
@@ -620,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4d8957177d3407ba18861ba674eb47f251f7b5746865c49ad1bd619db18891e3"
+hash = "6aef94b0034cccde4f980aa5f5f6c885c354805ba36a921f42fd7079cde92f1c"
 metafile = true
 
 [[files]]
@@ -665,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3fff6ada874371326dfd61ddb1603dbf8ca33c129e368b69da0142e2ef90ddde"
+hash = "44abecea05749acedbe9ef1ae47679c6c5916853e20deaadc93222c5ba5f35a3"
 metafile = true
 
 [[files]]
@@ -740,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
 
 [[files]]
@@ -805,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "68fa2c90c80e9ae9fbd98b2e62b43422883f0937165324bf11965c400047ca86"
+hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
 metafile = true
 
 [[files]]
@@ -845,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "908a4dcd0909080901e66f5bed636316e10938d1795ad309697d40dd47fb7f7c"
+hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
@@ -900,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
 metafile = true
 
 [[files]]
@@ -915,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
+hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
 metafile = true
 
 [[files]]
@@ -955,12 +960,8 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "04cbafa2b773dca3c37006cbbbb7de348864f1cd2b538569350420533a76efd7"
+hash = "b511c789eaf8320832d444cfedbbf266fda26c8e85e168365b1606903c0cce5c"
 metafile = true
-
-[[files]]
-file = "mods/seasons-delight-compatibility-1.1.0-2.0.17.jar"
-hash = "c68c34684360a592f6be5f18d15702d068991ee535d41221a097abdf83487302"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -1094,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]

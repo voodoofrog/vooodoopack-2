@@ -1,18 +1,18 @@
 name = "SeasonHUD-Fabric"
-filename = "seasonhud-fabric-1.20.1-1.7.19.jar"
+filename = "seasonhud-fabric-1.20.1-1.8.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iDiIfZLX/versions/nqBQIQl4/seasonhud-fabric-1.20.1-1.7.19.jar"
+url = "https://cdn.modrinth.com/data/iDiIfZLX/versions/kNHPN2v9/seasonhud-fabric-1.20.1-1.8.2.jar"
 hash-format = "sha1"
-hash = "31abbdecba33b9ce11ed5e5a98dace440eb70a60"
+hash = "ed55c3df5cbe9afa251a9337ce1ed6ef9da6250b"
 
 [update]
 [update.modrinth]
 mod-id = "iDiIfZLX"
-version = "nqBQIQl4"
+version = "kNHPN2v9"
 
 [option]
 optional = true
-default = true
 description = "Displays the current FabricSeasons season on the HUD or under the minimap."
+default = true
