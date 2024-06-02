@@ -11,3 +11,8 @@ hash = "eeb14f4a70f1368caeea7776d35d846234619816"
 [update.modrinth]
 mod-id = "ndHYMY2K"
 version = "SJpg5cVu"
+
+[option]
+optional = true
+description = "Merges Flywheel's shaders with Iris shaders on the fly, to prevent Flywheel's performance rendering from being disabled. Can cause random crashes, but recommended nonetheless."
+default = true
