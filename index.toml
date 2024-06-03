@@ -169,6 +169,11 @@ file = "config/yosbr/options.txt"
 hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
+file = "extra.pw.toml"
+hash = "5aa94a7080d00adfe4da4a394e573fd0817f4fd99fe45bf120da76b59ed06c87"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "61011422e0dacb34e22d7bff79037be8841cc25b0d5fc316b2af32635d648c03"
 metafile = true
@@ -1196,11 +1201,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
 hash = "c300f4b15449b2ee77d762277fb5b523f69539c28ca2956ea0b8e1c2eedd76b3"
-metafile = true
-
-[[files]]
-file = "servers-dat.pw.toml"
-hash = "0b81161a9e647eb2473cb5160db46f2ef215c87e3128a37ab1f7e7cb29f0ccc8"
 metafile = true
 
 [[files]]
