@@ -1,0 +1,7 @@
+name = "servers.dat"
+filename = "servers.dat"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/servers.dat"
+hash-format = "sha256"
+hash = "f0bc40a22c3576ad5834946becb56c0acb74e5719b7f794fcf7dcefd2622aaa8"
