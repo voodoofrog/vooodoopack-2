@@ -239,6 +239,11 @@ hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "b8ce27c03cbdda53bca70e4ae9ba73522e148ca8350d2eb656b7ea77e2116e0b"
 metafile = true
@@ -351,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "13a162536bf22b879f3bd9711a18c2aa16ba1fa17f28c47ff91ce409f487a1f8"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
 metafile = true
 
 [[files]]
