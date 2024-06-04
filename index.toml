@@ -17,6 +17,11 @@ file = "config/paxi/datapacks/voodoo-tweaks.zip"
 hash = "1b1d4185a57c7c4df7baba2d5769dcca29a894df5b9e5a64aa463df714b8d04a"
 
 [[files]]
+file = "config/paxi/resourcepacks/autoslabs-compat.pw.toml"
+hash = "b26b9f4fc19f9f6740821f9984592ecc950c6214ca5ba8641779958dd1a156f7"
+metafile = true
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 

@@ -1,0 +1,13 @@
+name = "Autoslabs Compat"
+filename = "AutoslabsCompat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jqgb3e3H/versions/DDRtvpI4/AutoslabsCompat.zip"
+hash-format = "sha1"
+hash = "4595897243aef80d7fda2c0c53748a4f2d2e791d"
+
+[update]
+[update.modrinth]
+mod-id = "Jqgb3e3H"
+version = "DDRtvpI4"
