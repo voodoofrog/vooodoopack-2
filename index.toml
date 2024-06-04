@@ -5,6 +5,10 @@ file = "config/enhanced_bes.properties"
 hash = "6f16e613d48936a393213408879a7d21c2893d22644cbc19ff283b4e32c86ba8"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "128257fd154ae600cc563b46b20392b73ae463f6eb9c1fa5eeb379d5c8df9bbb"
+
+[[files]]
 file = "config/paxi/datapacks/compat-numismatics.zip"
 hash = "b9e526b893490e1b4527c51147ce7a26b7b74a039e889938ab88bceceb80658e"
 
@@ -1026,6 +1030,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "15d6e9be44f90d3f93e298bbd6359a39a9e47a6194c0e02a871783bf27c41336"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "31d5a9a51a43cd0d6eb0d01375b67c65c90367ccb2d042fcda297a7da81bcb26"
 metafile = true
 
 [[files]]
