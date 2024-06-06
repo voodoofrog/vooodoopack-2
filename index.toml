@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d9cde7ab006d67906422390fd499e84b2269ddb52866a53f2e2c6b295d3ee116"
+hash = "8d5371088e70158b0f7fb5ef7e8681c1a6f1f4851aceb02b46530840395f541b"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "102eec6363f711986f22f402338b0d23818227d7137c95c83b6eca419228a555"
+hash = "271373d2967b7647a918adcc9e04ca81924d1a639e7fae4d7b5d0eabd775bdf4"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
+hash = "f7c1de8660dd549c1c66e6105f75d4c336c0e700da5080cde2dd5b877c38bdd5"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "67c983f24579022f3af1fc23527ae4b86c6f798f0c25f4ea8e620ba2bf0b35e3"
+hash = "71a03806a7644151a963b4a609042e844e4a5a297cc724cab1518e8f9449f0a8"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
-hash = "edea62e792a610e53e16141047acaa6da9dc5bb5460e02fb5d7fa3d8afa5e4b0"
+hash = "d51c65d228cd1b6f9d84cbfc6cb7b6bc28a499acbb8b39e0c149e6cd6fdb0b31"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "44abecea05749acedbe9ef1ae47679c6c5916853e20deaadc93222c5ba5f35a3"
+hash = "55f6831bfda831149f92791540cb9146eee6b8c1fb2f32f0499d27b591687c38"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
 metafile = true
 
 [[files]]
@@ -1079,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
 
 [[files]]
