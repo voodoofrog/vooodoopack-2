@@ -638,11 +638,6 @@ hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-(fabricquilt).pw.toml"
-hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
-metafile = true
-
-[[files]]
 file = "mods/hide-hands.pw.toml"
 hash = "526492a006d74bcb953c2184578a36df7429552d08ddccc7cd6248e9df6a29b4"
 metafile = true
