@@ -1,7 +1,13 @@
 name = "[Let's Do] BloomingNature"
-filename = "letsdo-bloomingnature-fabric-1.0.8.jar"
+filename = "letsdo-bloomingnature-fabric-1.0.7.jar"
+side = "both"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/letsdo-bloomingnature-fabric-1.0.8.jar"
-hash-format = "sha256"
-hash = "50ad399263d706ca6d6536eeec5e1c23de3a0036a07d5bd10860661b4df76e12"
+url = "https://cdn.modrinth.com/data/4Vno77MY/versions/pG5pCyUD/letsdo-bloomingnature-fabric-1.0.7.jar"
+hash-format = "sha1"
+hash = "9d2d29e713c5aa3c12fe1dc6ac4f56f2d57b40db"
+
+[update]
+[update.modrinth]
+mod-id = "4Vno77MY"
+version = "pG5pCyUD"
