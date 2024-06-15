@@ -1117,6 +1117,11 @@ hash = "82b18f2105f6ebc8d66cf726a2fc3bb5b7134946a694c9e99ce972b1e9a68d78"
 metafile = true
 
 [[files]]
+file = "mods/vf-pet-transfer.pw.toml"
+hash = "b2ce6d20f7d5a4c7dd76e7c35b90fd3b3a4fa43e18b1ad0496bf087f52bee15e"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
