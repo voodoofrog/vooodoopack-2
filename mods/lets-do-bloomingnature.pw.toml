@@ -1,7 +1,7 @@
-name = "[Let's Do] BloomingNature"
+e = "[Let's Do] BloomingNature"
 filename = "letsdo-bloomingnature-fabric-1.0.8.jar"
 
 [download]
 url = "http://artifacts.forgottendream.co.uk/modpacks/letsdo-bloomingnature-fabric-1.0.8.jar"
 hash-format = "sha256"
-hash = "c7852337d2848b079ec8f682f12eed4f0de8d1865c40c880df9960bd9d41e395"
+hash = "50ad399263d706ca6d6536eeec5e1c23de3a0036a07d5bd10860661b4df76e12"
