@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "13a162536bf22b879f3bd9711a18c2aa16ba1fa17f28c47ff91ce409f487a1f8"
+hash = "7f0c2f1ddc087fd3fc9649aa8d0af74cc7cc6539535dd8798ed5f638eda676e2"
 metafile = true
 
 [[files]]
@@ -516,8 +516,8 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "cc880578e8f9a186209661fba6dc937846894a35f85119a29569f29012687270"
+file = "mods/effective-redux.pw.toml"
+hash = "39b761b07df722d282269a0410bb6e30e224ae213418a8212022f36f509f61b3"
 metafile = true
 
 [[files]]
@@ -653,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/illuminations-redux.pw.toml"
+hash = "318b2df9ebb33e4a93ad077bae91c29358898b597262db809dd31ada0dd03228"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Effective (redux)"
+filename = "effective-redux-2.3.0.jar"
+side = "client"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/effective-redux-2.3.0.jar"
+hash-format = "sha256"
+hash = "dc53ec52142c31f06ae49dd97fa4a79dd200a729c50069e162d37cb3fe6f2ef2"
+
+[option]
+optional = true
+description = "Adds effects such as water splashes."
+default = true

@@ -1,0 +1,13 @@
+name = "Illuminations (redux)"
+filename = "illuminations-redux-1.11.0.jar"
+side = "client"
+
+[download]
+url = "http://artifacts.forgottendream.co.uk/modpacks/illuminations-redux-1.11.0.jar"
+hash-format = "sha256"
+hash = "91160cd17caf5ca94a67b45ebbf261ff6a02f77727de02a438de4b5866c395d4"
+
+[option]
+optional = true
+description = "Adds beautiful particles such as fireflies."
+default = true
