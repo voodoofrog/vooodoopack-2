@@ -34,10 +34,6 @@ file = "config/yosbr/config/betterdays-common.toml"
 hash = "57b2bde0a92d9dc60c1291e702eef09a2814ef3389e7f33575949369823381a5"
 
 [[files]]
-file = "config/yosbr/config/bloomingnature.json"
-hash = "5bd95b7b66cb952aa0fb7ac54554c9201f35f62d1d7fc1bc4f017fcfdf74c6f7"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
