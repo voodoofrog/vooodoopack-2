@@ -3,6 +3,6 @@ filename = "spawn-1.0.4-fabric.jar"
 side = "both"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/spawn-1.0.4-fabric.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/spawn-1.0.4-fabric.jar"
 hash-format = "sha256"
 hash = "9b55381d038f969fa6514aa12eff2105be3b0f226a78e689f5cae1cb8065b622"

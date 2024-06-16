@@ -2,6 +2,6 @@ name = "Fabric Seasons: Delight Compat"
 filename = "fabric-seasons-delight-1.20.1-2.1.1+refabricated-compat-1.2.jar"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/fabric-seasons-delight-1.20.1-2.1.1+refabricated-compat-1.2.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/fabric-seasons-delight-1.20.1-2.1.1+refabricated-compat-1.2.jar"
 hash-format = "sha256"
 hash = "09321acb7eb51f7f94deaba67a535cedea280316e0f3e0fbe05722c02fbee698"

@@ -3,6 +3,6 @@ filename = "fabric-waystones-3.3.3+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/fabric-waystones-3.3.3+mc1.20.1.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/fabric-waystones-3.3.3+mc1.20.1.jar"
 hash-format = "sha256"
 hash = "71e2991e983ff8a2d418365992ce7624089bf3daf0fe2c01faa548bc5f2cfb72"

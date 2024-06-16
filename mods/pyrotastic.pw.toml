@@ -3,6 +3,6 @@ filename = "pyrotastic-2.0.4.jar"
 side = "both"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/pyrotastic-2.0.4.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/pyrotastic-2.0.4.jar"
 hash-format = "sha256"
 hash = "044f3724a917da93c835bcbaa0523f1841f161256b490a049b1a638c4eb89929"

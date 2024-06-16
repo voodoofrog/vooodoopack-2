@@ -3,6 +3,6 @@ filename = "fabric-seasons-extras-1.2.1-BETA+1.20.jar"
 side = "both"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/fabric-seasons-extras-1.2.1-BETA+1.20.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/fabric-seasons-extras-1.2.1-BETA+1.20.jar"
 hash-format = "sha256"
 hash = "6c317bff7d5b5c1bc08badd80c39f849fac5e340424ae430bd55b548fe48a507"

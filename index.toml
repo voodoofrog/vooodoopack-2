@@ -183,7 +183,7 @@ hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
 file = "extra.pw.toml"
-hash = "5aa94a7080d00adfe4da4a394e573fd0817f4fd99fe45bf120da76b59ed06c87"
+hash = "de08562425e17534aea9a5c5ac9b566e7609a0e69782134720dc6d10139fb76e"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoslabs.pw.toml"
-hash = "a86dfaf05fa986676cdc9ed0b2f6f9ca6229f97e40b15830a03dc0d683a0c3c6"
+hash = "22a6d5202d22785af7fb660afd7a39feeb91c3abc5b3baacfecec743e0980097"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "65045ed8df491cf277c0a92ea0f0f133a097fdd57f209559ee4caa4b558a2785"
+hash = "0e023eea1992f83116e454b72f7df2ab9089e52b7d9949d5cd58ec6e52f07302"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective-redux.pw.toml"
-hash = "39b761b07df722d282269a0410bb6e30e224ae213418a8212022f36f509f61b3"
+hash = "2080eb0631714521be3181cf8601c9ac6c3dede5de4b5ddb6d874db94773e30f"
 metafile = true
 
 [[files]]
@@ -548,12 +548,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "8d2e8b26892d341bdcf898521cca304b0eced004625eeb788cdbd8fa180a8c47"
+hash = "37c491bf6dcbaf94772a90865aa4ba35bc67497f6940f51a746b0d56c299b809"
 metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
-hash = "32b9964e971ee4f85421ad3a1cb560d5fa1856770a845356256b5cbd8661f7a2"
+hash = "e6ebcf9bc13a0728848b2156930c9e6d4f87846bd49c8a62b89d6f7710801b68"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "ef2c6836d6afab05bd4b25f688c31126882492fd9422928aff409df84f9721bc"
+hash = "74a6eaeb3f1358d2b8ab5561bdc6c97163b867f8e2c8cb071246f6df6ac3f4c7"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations-redux.pw.toml"
-hash = "318b2df9ebb33e4a93ad077bae91c29358898b597262db809dd31ada0dd03228"
+hash = "5fb1eb8b7847f39a6da65624104bdb60829b4baa0dea31f81bcb549917c6077c"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/locksmith.pw.toml"
-hash = "fd1cdfb2df7825b4a316bc524a38c0a367704f98dea2dd5ab9c8c64d8d55e26e"
+hash = "02ba0564f629472fb9d3a5a0aebf516b936784b4fed68148e57339661bac8328"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
-hash = "2024ff51effdb5fcc5ba6aa4f6efc066e29ac45f9cb8982ca24c52547fe7f13d"
+hash = "a38949f33cc909636725915d09dc535b02821afe29290b6ff9bf9ace3e0b3c24"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrotastic.pw.toml"
-hash = "8a08fd75234f7f8239e95b5ee1711ba724daed9ca6aee2378aca939da509783e"
+hash = "1bb48ccd37ae56e744a6f2075a59c53d196cc68e22a3f7ba8cbcd33cdeb02d32"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/soil-stairs.pw.toml"
-hash = "544520918ed8b29a06fa1f1b985d5480deedc176563b6737b5570cdec0d1a330"
+hash = "0dc276c130070dfc0bf8fcbd3f0e6c4fca4f45bc0de9ac167cfbe7a5f2f85b8e"
 metafile = true
 
 [[files]]
@@ -1053,7 +1053,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-mod.pw.toml"
-hash = "fbdbabbcfbd94334695f0cde3f23929edcfbd88d03972287d38366ceab6a8a45"
+hash = "859de76a43c2867de85819dff95d358996e781419ec986033cb22a2626d365f8"
 metafile = true
 
 [[files]]
@@ -1113,12 +1113,12 @@ metafile = true
 
 [[files]]
 file = "mods/vf-backports.pw.toml"
-hash = "82b18f2105f6ebc8d66cf726a2fc3bb5b7134946a694c9e99ce972b1e9a68d78"
+hash = "492ce57b1a0f07c33c645af3cb807a33a8bbc29f163f52d8707abf3605f0d6e0"
 metafile = true
 
 [[files]]
 file = "mods/vf-pet-transfer.pw.toml"
-hash = "b2ce6d20f7d5a4c7dd76e7c35b90fd3b3a4fa43e18b1ad0496bf087f52bee15e"
+hash = "3c3dc99ccd2cbcbaeddfed01c6bd40b34877bb63da4c7691615a87201e6e40ea"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/voodoo-cards.pw.toml"
-hash = "2f5e44a91ab429475ee1c8dd27fae10ef97cf37c662759ad5fa9e365e9bb7fa0"
+hash = "7d89e2c52a7488066dfe3cbc045920ede2cf38966628890e9642dd68fd8ebc2e"
 metafile = true
 
 [[files]]
@@ -1223,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b80b3023c906345bcb726233ca9d468ab30ce80e1ae341d222744512dfe90e17"
+hash = "d30c45d29ccad57edd4e2b881fbbee1ea6d61fbda1ee96dd2a0f6d62eec3a670"
 metafile = true
 
 [[files]]
@@ -1238,5 +1238,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complimentary-vp-shaders.pw.toml"
-hash = "c5250e39a65234536ebee25c6543570efdb4a4ec91c1219d1517fe9ce69b8d87"
+hash = "55dd0c56223b165a6401899862c80cd8d329e81d2eed4134effd32c02c7e8552"
 metafile = true

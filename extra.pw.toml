@@ -2,6 +2,6 @@ name = "extra"
 filename = "servers.dat"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/servers.dat"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/servers.dat"
 hash-format = "sha256"
-hash = "f0bc40a22c3576ad5834946becb56c0acb74e5719b7f794fcf7dcefd2622aaa8"
+hash = "ed7c1cc073bab8acccab1938aed0cd9ba83dd51fa92ac338086b637389ffaf09"

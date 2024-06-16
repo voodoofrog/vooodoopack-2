@@ -2,6 +2,6 @@ name = "autoslabs"
 filename = "autoslabs-1.1.4.jar"
 
 [download]
-url = "http://artifacts.forgottendream.co.uk/modpacks/autoslabs-1.1.4.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/autoslabs-1.1.4.jar"
 hash-format = "sha256"
 hash = "92c4eb5fb5c82b2dc3f74dad074ef2423df13a229264948f07aafed121a963ff"
