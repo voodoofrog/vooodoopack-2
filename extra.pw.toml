@@ -1,5 +1,6 @@
 name = "extra"
 filename = "servers.dat"
+side = "client"
 
 [download]
 url = "http://forgottendream.grumpyoldgamers.net/modpacks/servers.dat"

@@ -183,7 +183,7 @@ hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
 file = "extra.pw.toml"
-hash = "de08562425e17534aea9a5c5ac9b566e7609a0e69782134720dc6d10139fb76e"
+hash = "d6f3d68e0cfbb749ee42a28627b97331fa74c45e068044564f81179220c9d88a"
 metafile = true
 
 [[files]]
