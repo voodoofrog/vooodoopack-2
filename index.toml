@@ -1118,12 +1118,12 @@ metafile = true
 
 [[files]]
 file = "mods/vf-backports.pw.toml"
-hash = "492ce57b1a0f07c33c645af3cb807a33a8bbc29f163f52d8707abf3605f0d6e0"
+hash = "073770e304b03511f473d9241f35e9a504ec4a024ecd487d83819cb9f5d08c8e"
 metafile = true
 
 [[files]]
 file = "mods/vf-pet-transfer.pw.toml"
-hash = "3c3dc99ccd2cbcbaeddfed01c6bd40b34877bb63da4c7691615a87201e6e40ea"
+hash = "a72703d00de133d6a62763d735dc100ba46d652d8f33b0db73d29be35702d676"
 metafile = true
 
 [[files]]

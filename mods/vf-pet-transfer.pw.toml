@@ -1,8 +1,8 @@
 name = "VoodooFrog's Pet Transfer"
-filename = "vf-pet-transfer-1.0.0.jar"
+filename = "vf-pet-transfer-1.1.0.jar"
 side = "both"
 
 [download]
-url = "http://forgottendream.grumpyoldgamers.net/modpacks/vf-pet-transfer-1.0.0.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/vf-pet-transfer-1.1.0.jar"
 hash-format = "sha256"
-hash = "8ed4c1e7d1f113f834373b747ac2574e058ea2f26694c08720e4fe7ab7381cbc"
+hash = "df6bc73edef3e28865b9d3843aee86607452c5aaa7e69133daddd4d71f807e61"
