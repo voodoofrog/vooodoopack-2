@@ -792,6 +792,11 @@ hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "a99faa3ab1e9c06ef0cca2ae438f6e0cc91655b95080c00bb779568c24798f6d"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
