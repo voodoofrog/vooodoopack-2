@@ -1,8 +1,8 @@
 name = "VoodooFrog's Backports"
-filename = "vf-backports-1.1.1.jar"
+filename = "vf-backports-1.1.2.jar"
 side = "both"
 
 [download]
-url = "http://forgottendream.grumpyoldgamers.net/modpacks/vf-backports-1.1.1.jar"
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/vf-backports-1.1.2.jar"
 hash-format = "sha256"
-hash = "ad680946c3d0af4763f0be1536405584775969362d5d291c84cfde0d0c109d5b"
+hash = "fae35a44aed11178078995af548adc8a18650952bc812956b80ec60399a9a72e"

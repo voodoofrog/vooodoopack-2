@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c2f9cceb863782ca771cd6dca92f56a0037a2522fd35d367b676d56f93f8e68b"
+hash = "dcce46a70b47fd6cd1fece57cb4ac4db6ee3f29ac482a606ab6bde2bd5d95f85"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "867b820fea3d6374103c7ea5a13162617b840e5ef5607ac47636014971ed95f7"
+hash = "11ae6e5ead026804f403de722f75b376d69b8502036321781b05d4dd5e94a783"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ccb45ba49b84224fbce01b9612cab24332472551c1d0c415654706e17c4cae73"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "601d667f63f431085401af78127d81dacf44dcbf789abcb10eb6090474a89e58"
+hash = "13f5c7b9c3166e3fd222b8494e4acdbb7fffddf3d9e37f3c3c82768bedae50a6"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9a4bbe8d6ce1d8b0fb02085749c305f6adf31190c1dadf40c0498414da2af346"
+hash = "acca30c63aeae392c0fd1eb14fa1a3fec96211159c56c7c5c1b6653b248fb409"
 metafile = true
 
 [[files]]
@@ -998,12 +998,12 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "9503b387cd353c1ff9a60eece8ed0c4e737a28dcdf84294b60e6c20d12e93a28"
+hash = "92f3e674b932c764595144e0077841b5b6828d69f307c8a17a75760d7e7ffb20"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8f5ef288292921085dc5d6207807ceb8aed3027e2e2e197a4a39a236c52d703f"
+hash = "837a9fbd724408517e1e2d191fe3669d3623ab3d57de268c2f553398da25c4cf"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
@@ -1043,12 +1043,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "447e5befa166230674f2fa31097b959453affb2057d146c3780f9eb1b02cc46b"
+hash = "5287b480f9adfe79609ac3cf3ff361870aef93551f6e800f36ef6837812ef574"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "15d6e9be44f90d3f93e298bbd6359a39a9e47a6194c0e02a871783bf27c41336"
+hash = "1c1b3e65c0b7e16f21c7def08713799c07ad02be8b69633ef2d46dbf08a80ef0"
 metafile = true
 
 [[files]]
@@ -1118,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/vf-backports.pw.toml"
-hash = "073770e304b03511f473d9241f35e9a504ec4a024ecd487d83819cb9f5d08c8e"
+hash = "089b44dbd4507b4536388c20552895155861938d62e1e3a55de970936b246b9d"
 metafile = true
 
 [[files]]
