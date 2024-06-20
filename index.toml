@@ -1127,6 +1127,11 @@ hash = "a72703d00de133d6a62763d735dc100ba46d652d8f33b0db73d29be35702d676"
 metafile = true
 
 [[files]]
+file = "mods/vf-ssww.pw.toml"
+hash = "bc594948e796f493e40821f83c50a966b0a8f228f8d0c8ba32fb424f31f606ff"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true

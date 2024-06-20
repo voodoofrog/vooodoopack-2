@@ -1,0 +1,8 @@
+name = "Simple Storage with Waystones"
+filename = "simple-storage-through-waystones-1.0.0.jar"
+side = "both"
+
+[download]
+url = "http://forgottendream.grumpyoldgamers.net/modpacks/simple-storage-through-waystones-1.0.0.jar"
+hash-format = "sha256"
+hash = "2d817ed8f066d287ad3b29ef7f002028584e3f0fbc82778b5b27df863fdfc470"
